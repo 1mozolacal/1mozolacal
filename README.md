@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1mozolacal&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mozolacal&count_private=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=1mozolacal&theme=tokyonight" />
+</a>
+
 <!--
 **1mozolacal/1mozolacal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
