@@ -1,18 +1,20 @@
-### Hi there 👋
+### Hi there 👋 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=1mozolacal&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mozolacal&count_private=true&theme=tokyonight&hide=html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mozolacal&theme=tokyonight&hide=html" />
 </a>
-🔭 I’m currently working on ...
-- [ ] StarCraft Bot
+<br>
+🔭 I’m currently working on ... 
+
+- [ ] <a href="https://github.com/1mozolacal/StarCraftAI"> StarCraft Bot </a>
   - [X] Write a script bot to beat hard AI
   - [ ] Make a Generic bot from the script bot
   - [ ] Create and visualization of the current gamestate
   - [ ] Feed that visualization into a CNN
-- [ ] MEOW
+- [ ] <a href="https://github.com/1mozolacal/personalization/tree/main/windows/MEOW"> MEOW </a>
   - [ ] Open curent working git repo in VS code
   
 <!--
