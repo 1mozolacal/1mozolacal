@@ -9,7 +9,6 @@
 <br>
 🔭 I’m currently working on ... 
 
-- [x] <a href="https://github.com/1mozolacal/Type_Racer_Analyzer"> Type Racer Analyzer </a>
 - [ ] <a href="https://github.com/1mozolacal/portfolio_next_js"> New Portfolio site </a>
 
 ## Languages
