@@ -92,7 +92,7 @@
  Reach me at calvin4992+github@gmail.com 
 
 ## STREAK O METER
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1mozolacal)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1mozolacal&theme=tokyonight)](https://git.io/streak-stats)
 <!--
 **1mozolacal/1mozolacal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
